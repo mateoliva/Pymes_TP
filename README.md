@@ -1,6 +1,7 @@
 # Pymes\_TP
 
 Proyecto realizado en clase de Desarrollo de Software (2025).
+
 -- Tecnologías utilizadas:
 --> Backend: NodeJs, Express , WebApiRest, Swagger, Sequelize, Sqlite y Javascript.
 
